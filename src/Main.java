@@ -39,7 +39,7 @@ public class Main {
 
                System.out.println("Здравствуйте, " + letter + "!");
            } else {
-               System.out.println("Пожалуйста, вводите только буквы!");
+               System.out.println("Пожалуйста, вводите только буквы!!");
            }
 
 
